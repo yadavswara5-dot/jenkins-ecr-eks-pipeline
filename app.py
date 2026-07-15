@@ -7,7 +7,7 @@ def home():
     return """
     <h1>CI/CD Pipeline Demo</h1>
     <h2>Jenkins + Docker + Amazon ECR + Kubernetes</h2>
-    <p>Deployment Successful!</p>
+    <p>Deployment Successful!!!</p>
     """
 
 if _name_ == "_main_":
